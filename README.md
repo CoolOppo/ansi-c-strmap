@@ -5,6 +5,7 @@ The origin of the code in this repo and it's explanation can be found
 [here](http://www.pokristensson.com/strmap.html).
 
 The simple implementation is described to have the following functionality:
+
 1. Inserting and retrieving key-value associations
 2. Querying the existence of a key
 3. Returning the total number of key-value associations
