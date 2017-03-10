@@ -1,7 +1,7 @@
 # ANSI C Hash Table ("strmap")
 
 This is Per Ola Kristensson's implementation of a hash map in ANSI C.
-The origin of the code in this repo and it's explanation can be found
+The origin of the code in this repo and its explanation can be found
 [here](http://www.pokristensson.com/strmap.html).
 
 The simple implementation is described to have the following functionality:
